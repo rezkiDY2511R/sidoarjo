@@ -1,0 +1,52 @@
+img{
+    width: 600px;
+    margin-bottom: auto;
+    margin-right: auto;
+    display: block;
+}
+
+img{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+img{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p{
+    color: blueviolet;
+    text-align: center;
+}
+
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
+
+h3{
+    color: blue;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+label{
+    color: black;
+}
